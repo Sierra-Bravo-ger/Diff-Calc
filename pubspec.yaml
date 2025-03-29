@@ -1,7 +1,7 @@
-name: ery_calc
-description: "A new Flutter project."
+name: DiffCalc
+description: "Ein Rechner zur Differenzialblutbild-Korrektur"
 publish_to: 'none'
-version: 0.1.0
+version: 1.0.2
 
 environment:
   sdk: ^3.7.2
